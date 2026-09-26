@@ -8,11 +8,13 @@ Public website for MindLoom, the AI organisation brain.
 |---|---|
 | `index.html` | Home: the problem, the solution, the agents, teams, why now |
 | `how-it-works.html` | Loombot, the four agents (Weaver, Keeper, Lens, Shuttle), MindLoom Capture, how a question flows |
-| `who-its-for.html` | Before and after for each role, industry examples |
+| `industries.html` | Industries overview with a card for each sector |
+| `industry-*.html` | One page per industry: professional services, financial services, healthcare, manufacturing, retail, technology |
+| `who-its-for.html` | Before and after for each role, links to industry pages |
 | `privacy.html` | Privacy and trust promises, FAQ |
 
 Shared files live in `assets/`: `styles.css` (brand colours and layout), `site.js`
-(mobile menu, industry examples, scroll effects) and `logo.svg`.
+(mobile menu, scroll effects) and `logo.svg`.
 
 Features marked "Coming soon" on the site match the "Next" items in the pitch
 deck. Keep them in sync when a feature ships.

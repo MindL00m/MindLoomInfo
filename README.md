@@ -1,6 +1,21 @@
 # MindLoomInfo
 
-Static website for MindLoom.
+Public website for MindLoom, the AI organisation brain.
+
+## Pages
+
+| File | Page |
+|---|---|
+| `index.html` | Home: the problem, the solution, the agents, teams, why now |
+| `how-it-works.html` | Loombot, the four agents (Weaver, Keeper, Lens, Shuttle), MindLoom Capture, how a question flows |
+| `who-its-for.html` | Before and after for each role, industry examples |
+| `privacy.html` | Privacy and trust promises, FAQ |
+
+Shared files live in `assets/`: `styles.css` (brand colours and layout), `site.js`
+(mobile menu, industry examples, scroll effects) and `logo.svg`.
+
+Features marked "Coming soon" on the site match the "Next" items in the pitch
+deck. Keep them in sync when a feature ships.
 
 ## Local preview
 

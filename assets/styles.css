@@ -313,10 +313,8 @@ a.agent-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); }
 .footer-meta { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--line); display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; color: var(--soft); font-size: 14px; }
 
 /* Industry pages */
-a.industry-card { text-decoration: none; transition: transform .2s, box-shadow .2s; }
-a.industry-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); }
 .industry-card .industry-who { color: var(--soft); font-size: 14px; margin-top: -6px; }
-.industry-card .text-link { margin-top: 6px; }
+.industry-card .pill { justify-self: start; margin-top: 4px; }
 .agent-tag { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--teal-dark); margin-bottom: 4px; }
 .small-note { margin-top: 24px; color: var(--muted); font-size: 15px; }
 .example-label { font-size: 12px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--soft); }

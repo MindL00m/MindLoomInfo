@@ -89,6 +89,10 @@ h3 { font-size: 22px; letter-spacing: -.02em; line-height: 1.2; }
 .button-dark { background: var(--navy); color: var(--white); }
 .button-light { background: var(--white); color: var(--navy); }
 .button-ghost { border-color: var(--line); color: var(--ink); background: transparent; }
+.button-join { border: 2px solid var(--teal); color: var(--teal-dark); background: var(--teal-wash); box-shadow: 0 8px 20px rgba(42, 157, 143, .14); transition: transform .2s, box-shadow .2s, background .2s, color .2s, border-color .2s; }
+.button-join:hover { background: var(--teal-dark); border-color: var(--teal-dark); color: var(--white); box-shadow: 0 12px 26px rgba(31, 122, 111, .28); }
+.desktop-nav a.button-join { color: var(--teal-dark); font-size: 14px; font-weight: 700; }
+.desktop-nav a.button-join:hover { color: var(--white); }
 .text-link { display: inline-flex; align-items: center; gap: 8px; font-weight: 700; font-size: 15px; color: var(--teal-dark); text-decoration: none; }
 .text-link:hover { text-decoration: underline; }
 .on-dark .text-link, .bg-navy .text-link { color: var(--teal-light); }

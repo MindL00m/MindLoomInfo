@@ -1,0 +1,35 @@
+assets/styles.css
+  s_ce7485f200c12a::t_d15ee3fbed389e 92-93,95
+  s_ce7485f200c12a::t_a39d2034b154ae 94
+how-it-works.html
+  s_ce7485f200c12a::t_af608bf187ef39 26
+  s_ce7485f200c12a::t_82e72a41e5a249 36
+industries.html
+  s_ce7485f200c12a::t_79150271666fac 26
+  s_ce7485f200c12a::t_a9bc15b7cf323d 36
+who-its-for.html
+  s_ce7485f200c12a::t_134688c5faed7c 36
+  s_ce7485f200c12a::t_bab640e7128c73 26
+privacy.html
+  s_ce7485f200c12a::t_39fca141339684 26
+  s_ce7485f200c12a::t_5d53f406f32f8a 36
+index.html
+  s_ce7485f200c12a::t_a81b3afde5826a 26
+  s_ce7485f200c12a::t_da0c9bd3cefe22 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e8eb96d866a99aa8e30055b6e0cf3bb1f7ad6457",
+  "prompts": {},
+  "sessions": {
+    "s_ce7485f200c12a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "394fddab-abc3-44a1-9aef-c16ab64ae3b1",
+        "model": "grok-4.7"
+      },
+      "human_author": "NotALynx <soham.usind@gmail.com>"
+    }
+  }
+}

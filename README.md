@@ -11,6 +11,7 @@ Public website for MindLoom, the AI organisation brain.
 | `industries.html` | Industries overview with a card for each sector (detailed pages coming soon) |
 | `who-its-for.html` | Before and after for each role, industries we serve |
 | `privacy.html` | Privacy and trust promises, FAQ |
+| `privacy-policy.html` | Privacy Policy for Google and account data |
 
 Shared files live in `assets/`: `styles.css` (brand colours and layout), `site.js`
 (mobile menu, scroll effects) and `logo.svg`.

@@ -1,0 +1,51 @@
+how-it-works.html
+  s_bc587fc2ebbe68::t_164b67ce757a75 218
+  s_bc587fc2ebbe68::t_8e56614ea3035e 88-90
+  s_bc587fc2ebbe68::t_668aab652b30db 233-234,246
+  s_bc587fc2ebbe68::t_0ce06b5c1843c0 83
+  s_bc587fc2ebbe68::t_a4c7e2f5ec7cf2 202
+  s_bc587fc2ebbe68::t_7c2fc403453f97 102-104
+  s_bc587fc2ebbe68::t_f7e8e412db9cbf 162
+  s_bc587fc2ebbe68::t_82f0954a3e37bc 132
+  s_bc587fc2ebbe68::t_bd92c1e69e53ab 182
+  s_bc587fc2ebbe68::t_12ed8914eafee2 149-150
+  s_bc587fc2ebbe68::t_59f3858df5e6c1 165-166,168,170
+who-its-for.html
+  s_bc587fc2ebbe68::t_627c21a4b1e60d 73
+  s_bc587fc2ebbe68::t_800fc4f29697a6 94
+  s_bc587fc2ebbe68::t_b682d2ff5c3973 128-129,141
+  s_bc587fc2ebbe68::t_3f42b421b7b328 78
+privacy-policy.html
+  s_bc587fc2ebbe68::t_74b89484526f0a 253
+index.html
+  s_bc587fc2ebbe68::t_2a5315fa36f167 234-235,247
+  s_bc587fc2ebbe68::t_0f5e237384a5ff 165,167-169
+  s_bc587fc2ebbe68::t_f6e929cdd6ddaf 124
+industries.html
+  s_bc587fc2ebbe68::t_bce52dd365015f 89-90,102
+privacy.html
+  s_bc587fc2ebbe68::t_771f244404f557 92
+  s_bc587fc2ebbe68::t_c794c257126093 65
+  s_bc587fc2ebbe68::t_83f523ff1f8e56 95-96
+  s_bc587fc2ebbe68::t_3285356af10eb2 110-111,123
+  s_bc587fc2ebbe68::t_e9061c0f6fcba8 79
+  s_bc587fc2ebbe68::t_266821f5ab3d7f 62
+README.md
+  s_bc587fc2ebbe68::t_5d5701c20938fa 19-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ef92f011e19fa2db4b80fb91c7647b57eada3624",
+  "prompts": {},
+  "sessions": {
+    "s_bc587fc2ebbe68": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5fef2b84-efc8-491d-96ae-dabd00055562",
+        "model": "grok-4.7"
+      },
+      "human_author": "NotALynx <soham.usind@gmail.com>"
+    }
+  }
+}

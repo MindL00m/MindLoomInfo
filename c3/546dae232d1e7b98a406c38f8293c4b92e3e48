@@ -1,0 +1,37 @@
+assets/styles.css
+  s_ce7485f200c12a::t_26243077090404 319-338,341
+  s_ce7485f200c12a::t_6d69cbe6a9fd5e 339-340
+who-its-for.html
+  s_ce7485f200c12a::t_839dbc076503ec 141
+industries.html
+  s_ce7485f200c12a::t_c169ecc88b698c 102
+index.html
+  s_ce7485f200c12a::t_b6bbefb8f039f6 247
+privacy.html
+  s_ce7485f200c12a::t_d7bf3aa60214cd 123
+privacy-policy.html
+  s_ce7485f200c12a::t_e66bb2f365ec5a 159
+  s_ce7485f200c12a::t_f4585f970b4b87 1-158,160-178,180-230,232-261
+  s_ce7485f200c12a::t_54737d9d9cfac4 179
+  s_ce7485f200c12a::t_b6a8a8a970f22e 231
+how-it-works.html
+  s_ce7485f200c12a::t_b8dae35441a26a 246
+README.md
+  s_ce7485f200c12a::t_0409878020b4fa 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c3546dae232d1e7b98a406c38f8293c4b92e3e48",
+  "prompts": {},
+  "sessions": {
+    "s_ce7485f200c12a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "394fddab-abc3-44a1-9aef-c16ab64ae3b1",
+        "model": "grok-4.7"
+      },
+      "human_author": "NotALynx <soham.usind@gmail.com>"
+    }
+  }
+}

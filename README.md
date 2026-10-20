@@ -16,8 +16,11 @@ Public website for MindLoom, the AI organisation brain.
 Shared files live in `assets/`: `styles.css` (brand colours and layout), `site.js`
 (mobile menu, scroll effects) and `logo.svg`.
 
-Features marked "Coming soon" on the site match the "Next" items in the pitch
-deck. Keep them in sync when a feature ships.
+Features marked "Coming soon" are not in the product yet. Industry detail pages
+are still placeholders. Unattended workflow playback (MindLoom clicking through
+a task by itself) is still coming soon. Guided Mac walkthroughs, Slack
+`@Loombot`, project workspaces, and MindLoom Capture for Mac and Chrome are
+available now. Keep the pills in sync when a feature ships.
 
 ## Local preview
 

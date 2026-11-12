@@ -2,6 +2,8 @@
 
 Public website for MindLoom, the AI organisation brain.
 
+MindLoom helps teams find and use shared company knowledge.
+
 ## Pages
 
 | File | Page |
